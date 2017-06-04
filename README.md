@@ -1,3 +1,5 @@
+# This is strongSwan fork for Vietnamese #
+
 # strongSwan Configuration #
 
 ## Overview ##
